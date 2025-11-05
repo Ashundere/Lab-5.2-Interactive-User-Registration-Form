@@ -31,7 +31,7 @@ submitBtn.addEventListener("click", function(event){
         emailError.textContent = ""
     }
     if (!passwordInput.validity.valid) {
-      passwordError.textContent = 'Password must be a minimum of 8 characters!.'
+      passwordError.textContent = 'Invalid Password.'
       passwordInput.focus();
     } else{
         passwordError.textContent = ""
