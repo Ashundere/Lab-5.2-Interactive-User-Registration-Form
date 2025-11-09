@@ -41,8 +41,10 @@ h1 {
   box-sizing: border-box; /* Makes width calculation easier */
 }
  
-.form-group input:invalid {
-  border-color: #e74c3c; /* Light red for invalid built-in states */
+input:focus:invalid {
+      background-color: rgb(216, 194, 194);
+      box-shadow: 0 0 5px rgba(0, 123, 255, 0.5); 
+      outline: none;
 }
 /* You can add a .valid class if you want to style valid inputs too */
  
