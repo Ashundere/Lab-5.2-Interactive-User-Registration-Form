@@ -26,6 +26,7 @@ Github: [@Ashundere](https://github.com/Ashundere)
 ## Acknowledgments
 
 JS MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 CANVAS Lesson 5
 
 
